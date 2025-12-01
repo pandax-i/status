@@ -1,10 +1,10 @@
 # 你的状态页显示的用户名
-owner: 你的GitHub用户名
-repo: 你的仓库名(例如 uptime-monitor)
+owner: pandax-i
+repo: status
 
 sites:
   - name: 耗子面板入口
-    url: http://你的面板IP:端口
+    url: http://106.55.149.12
     # 如果不想让别人看到面板端口，可以把这个删掉
 
   - name: 我的博客
