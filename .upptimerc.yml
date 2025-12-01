@@ -3,7 +3,7 @@ owner: pandax-i
 repo: status
 
 sites:
-  - name: 耗子面板入口
+  - name: 音乐
     url: http://106.55.149.12
     # 如果不想让别人看到面板端口，可以把这个删掉
 
