@@ -1,7 +1,7 @@
-url: https://www.example.com
-status: up
-code: 200
-responseTime: 337
-lastUpdated: 2025-12-08T13:57:57.982Z
+url: http://106.55.149.12
+status: down
+code: 404
+responseTime: 642
+lastUpdated: 2025-12-08T14:32:33.575Z
 startTime: 2025-12-01T12:47:17.397Z
 generator: Upptime <https://github.com/upptime/upptime>
